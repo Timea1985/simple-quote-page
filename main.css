@@ -1,0 +1,15 @@
+body {
+    background-image: url("assets/freedom.jpg");
+    background-size: cover;  
+   
+}
+p {
+    text-transform: uppercase;
+    margin-top: 150px;
+    text-align: center;
+    font-size: 25px;
+}
+blockquote {
+    text-align: center;
+    font-style: italic;
+}
